@@ -1,3 +1,1 @@
 # navigation
-
-shared viewModel
